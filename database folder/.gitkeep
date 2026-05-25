@@ -1,0 +1,7 @@
+Placeholder for database layer.
+
+This folder will contain:
+- Database schema design
+- Tables for users, preferences, votes
+- Meal tracking data
+- Carbon footprint and points system
